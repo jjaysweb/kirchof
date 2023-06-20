@@ -1,0 +1,17 @@
+img{
+width:100px;
+border-radius:70px;
+display:block;
+}
+.new{
+font-family:arial;
+width:300px;
+display:inline-block;
+}
+.txy{
+width:700px;
+}
+.photo prev{
+width:300px;
+display:inline-block;
+}
